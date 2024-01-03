@@ -7,7 +7,6 @@ C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWe
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
@@ -34,3 +33,5 @@ C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWe
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\Curso.net\Projetos\Medio\WebAppMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
